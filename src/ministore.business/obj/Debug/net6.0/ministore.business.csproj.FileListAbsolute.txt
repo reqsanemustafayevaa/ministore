@@ -1,0 +1,17 @@
+C:\Users\II novbe\Desktop\ministoreproject\src\ministore.business\bin\Debug\net6.0\ministore.business.deps.json
+C:\Users\II novbe\Desktop\ministoreproject\src\ministore.business\bin\Debug\net6.0\ministore.business.dll
+C:\Users\II novbe\Desktop\ministoreproject\src\ministore.business\bin\Debug\net6.0\ministore.business.pdb
+C:\Users\II novbe\Desktop\ministoreproject\src\ministore.business\bin\Debug\net6.0\ministore.core.dll
+C:\Users\II novbe\Desktop\ministoreproject\src\ministore.business\bin\Debug\net6.0\ministore.data.dll
+C:\Users\II novbe\Desktop\ministoreproject\src\ministore.business\bin\Debug\net6.0\ministore.data.pdb
+C:\Users\II novbe\Desktop\ministoreproject\src\ministore.business\bin\Debug\net6.0\ministore.core.pdb
+C:\Users\II novbe\Desktop\ministoreproject\src\ministore.business\obj\Debug\net6.0\ministore.business.csproj.AssemblyReference.cache
+C:\Users\II novbe\Desktop\ministoreproject\src\ministore.business\obj\Debug\net6.0\ministore.business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\Desktop\ministoreproject\src\ministore.business\obj\Debug\net6.0\ministore.business.AssemblyInfoInputs.cache
+C:\Users\II novbe\Desktop\ministoreproject\src\ministore.business\obj\Debug\net6.0\ministore.business.AssemblyInfo.cs
+C:\Users\II novbe\Desktop\ministoreproject\src\ministore.business\obj\Debug\net6.0\ministore.business.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\Desktop\ministoreproject\src\ministore.business\obj\Debug\net6.0\ministore.business.csproj.CopyComplete
+C:\Users\II novbe\Desktop\ministoreproject\src\ministore.business\obj\Debug\net6.0\ministore.business.dll
+C:\Users\II novbe\Desktop\ministoreproject\src\ministore.business\obj\Debug\net6.0\refint\ministore.business.dll
+C:\Users\II novbe\Desktop\ministoreproject\src\ministore.business\obj\Debug\net6.0\ministore.business.pdb
+C:\Users\II novbe\Desktop\ministoreproject\src\ministore.business\obj\Debug\net6.0\ref\ministore.business.dll
